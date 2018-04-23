@@ -1,0 +1,16 @@
+/* call font files */
+@font-face {
+    font-family: 'BMYeonSung';
+    src: url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.woff') format('woff'),
+		url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.ttf') format('truetype'),
+		url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* apply font */
+h1 {
+	font-family: 'BMYeonSung', monospace;
+	font-weight: normal;
+	font-style: normal;
+}
