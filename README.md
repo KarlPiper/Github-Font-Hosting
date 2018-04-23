@@ -6,13 +6,13 @@ Use Github to host your font files.
 
    Uses @font-face to define a font
    
-   Calls actual files from **fonts/**
+   Calls files from **fonts/**
    
 1. **example.css**
 
-   Uses @import to call the defined font
+   Uses @import to call **font.css**
    
-   Applies that font using appropriate font-family name
+   Applies font using CSS
 
 ## Example Font Info
 - Name: [BM Yeon Sung](http://font.woowahan.com/yeonsung/)
