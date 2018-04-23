@@ -1,4 +1,4 @@
-/* call font files */
+/* define font-face */
 @font-face {
     font-family: 'BMYeonSung';
     src: url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.woff') format('woff'),
