@@ -1,6 +1,19 @@
 # Git-Font-Hosting
 Use Github to host your font files.
 
+## Summary
+1. **font.css**
+
+   Uses @font-face to define a font
+   
+   Calls actual files from **fonts/**
+   
+1. **example.css**
+
+   Uses @import to call the defined font
+   
+   Applies that font using appropriate font-family name
+
 ## Example Font Info
 - Name: [BM Yeon Sung](http://font.woowahan.com/yeonsung/)
 - Author: [Woowa Brothers Corp.](http://www.woowahan.com/)
@@ -9,3 +22,5 @@ Use Github to host your font files.
 
 ## Credits
 Font converted to WOFF using [onlinefontconverter.com](http://onlinefontconverter.com) by [Wärting Innovative Solutions](http://warting.se/)
+
+Files served using [RawGit](https://rawgit.com/)
