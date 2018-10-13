@@ -5,8 +5,8 @@ h1 {
 @font-face {
     font-family: 'BMYeonSung';
     src: url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/fonts/BMYEONSUNG.woff') format('woff'),
-		url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.ttf') format('truetype'),
-		url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.otf') format('opentype');
+		url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/BMYEONSUNG.ttf') format('truetype'),
+		url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@e3f48d78fa45957ea5e51d95eeb0cd3a886989f7/BMYEONSUNG.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
