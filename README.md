@@ -23,4 +23,4 @@ Use Github to host your font files.
 ## Credits
 Font converted to WOFF using [onlinefontconverter.com](http://onlinefontconverter.com) by [Wärting Innovative Solutions](http://warting.se/)
 
-Files served using [RawGit](https://rawgit.com/)
+Files served using [JSDelivr](https://www.jsdelivr.com/)
