@@ -1,9 +1,9 @@
 /* define font-face */
 @font-face {
     font-family: 'BMYeonSung';
-    src: url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.woff') format('woff'),
-		url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.ttf') format('truetype'),
-		url('https://cdn.rawgit.com/KarlPiper/Github-Font-Hosting/e3f48d78/fonts/BMYEONSUNG.otf') format('opentype');
+    src: url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.woff?raw=true') format('woff'),
+		url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.ttf?raw=true') format('truetype'),
+		url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.otf?raw=true') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
