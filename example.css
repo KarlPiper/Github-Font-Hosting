@@ -1,5 +1,5 @@
 /* call font-face */
-@import url('https://raw.github.com/KarlPiper/Github-Font-Hosting/master/font.css');
+@import url('https://cdn.jsdelivr.net/gh/KarlPiper/Github-Font-Hosting@f633dde8307d79b22b1e57284555fe9d487c4186/font.css');
 /* apply font */
 h1 {
 	font-family: 'BMYeonSung', monospace;
