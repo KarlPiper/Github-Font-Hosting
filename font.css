@@ -1,4 +1,8 @@
-@font-face { /* define font-face */
+h1 {
+    color:blue;
+}
+/* define font-face */
+@font-face {
     font-family: 'BMYeonSung';
     src: url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.woff?raw=true') format('woff'),
 		url('https://github.com/KarlPiper/Github-Font-Hosting/blob/master/fonts/BMYEONSUNG.ttf?raw=true') format('truetype'),
